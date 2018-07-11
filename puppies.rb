@@ -33,10 +33,11 @@ end
 def both_animals(puppies, cats)
   if puppies == 0 || cats == 0 
     "Good job!"
-    elsif puppies >= 1 &&  cats >= 1 
+    elsif puppies >= 1 && cats >= 1 
     "Get back to your animal goals!"
   end
 end
 
+puts no_puppies(3)
 puts some_puppies(15, 24)
 puts both_animals(2, 5)
