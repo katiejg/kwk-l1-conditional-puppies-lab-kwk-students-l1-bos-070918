@@ -38,4 +38,5 @@ def both_animals(puppies, cats)
   end
 end
 
+puts some_puppies(15, 24)
 puts both_animals(2, 5)
