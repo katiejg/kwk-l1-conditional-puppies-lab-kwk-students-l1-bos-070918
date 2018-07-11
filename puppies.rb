@@ -38,4 +38,4 @@ def both_animals(puppies, cats)
   end
 end
 
-puts both_animals(2, 0)
+puts both_animals(2, 5)
