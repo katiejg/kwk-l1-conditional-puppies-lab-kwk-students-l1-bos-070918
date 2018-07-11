@@ -37,3 +37,5 @@ def both_animals(puppies, cats)
     "Get back to your animal goals!"
   end
 end
+
+puts both_animals(2,0)
